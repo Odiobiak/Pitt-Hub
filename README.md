@@ -1,16 +1,39 @@
-# gatsby-starter-forty
+# D4BL Pitt-Hub
 
-**This is a starter for Gatsby.js V2.**
+**This is the repo for creating our website.**
 
-**The older V1 version of this starter can be found on the v1 branch**
-
-Gatsby.js V2 starter based on the Forty site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
-
-## Preview
-
-https://gatsby-forty.surge.sh
+## Note on Software used
+**This site was created with Gastby.**
+It is a frame work of Reactjs mostly used for Static website.
+You would need to set up your enviroment.
 
 ## Installation
+
+**First, you will need to download Npm and Node.js if you don't already have it.**
+download npm https://www.npmjs.com/get-npm
+
+Windows Instructions:
+Download and install the latest Node.js version from the official Node.js website https://nodejs.org/en/
+
+Mac instructions: (using homebrew, else download from https://nodejs.org/en/)
+Install Node:
+<br/>
+    Open your Terminal
+    type `brew install` node
+
+Confirm it worked by typing: 
+<br>
+    `npm --version`
+    `node --version` on your terminal.
+    if there is a version number, it means you have the needed packages.
+
+**Next make sure Git is installed on your computer**
+Install Git on macOS https://www.atlassian.com/git/tutorials/install-git#mac-os-x
+Install Git on Windows https://www.atlassian.com/git/tutorials/install-git#windows
+
+**Next Install Gastby Cli**
+The Gatsby CLI is available via npm and should be installed globally by running:
+    `npm install -g gatsby-cli` 
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 <br/>

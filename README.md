@@ -4,8 +4,8 @@
 
 ## Note on Software used
 **This site was created with Gastby.**
-It is a frame work of Reactjs mostly used for Static website.
-You would need to set up your enviroment.
+- It is a frame work of Reactjs mostly used for Static website.
+- You would need to set up your enviroment.
 
 ## Installation
 

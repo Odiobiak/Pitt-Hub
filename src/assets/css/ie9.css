@@ -44,6 +44,12 @@
 		left: 0;
 	}
 
+	#header .logoright {
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+
 	#header nav {
 		position: absolute;
 		top: 0;

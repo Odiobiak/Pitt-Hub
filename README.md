@@ -45,5 +45,5 @@ For more info please look at this https://code.tutsplus.com/tutorials/how-to-col
 
 ## Running the Gastby website 
 Once you have the repo Cloned on your local machine, on your terminal
-- `cd into it's loaction`
+- `cd into it's location`
 - Run `gatsby develop` to start the dev site.
